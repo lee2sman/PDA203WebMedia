@@ -35,10 +35,10 @@ Course Texts
 Software
 --------
 
-*  Sublime Text 3 – a code editor for HTML, Javascript and more
-*  Processing - a development environment for Programming in Processing
-*  P5.JS – a free library for programming Processing in Javascript
-*  Photoshop (Adobe) or Gimp (open source and free) - image editors
+*  [Sublime Text 3](http://www.sublimetext.com) – a code editor for HTML, Javascript and more. (Also, check out [Atom](http://atom.io))
+*  [Processing](https://www.processing.org/download/) - a development environment for Programming in Processing
+*  [P5.JS](http://www.p5js.org/download/) – a free library for programming Processing in Javascript
+*  Photoshop (Adobe) or [Gimp](http://www.gimp.org/downloads/) (open source and free) - image editors
 
 
 Course Objectives
