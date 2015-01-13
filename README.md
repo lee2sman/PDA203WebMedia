@@ -102,13 +102,11 @@ No assignments will be accepted after the deadlines, so get it done on time. Dea
 
 The following definitions are applied to appropriate letter grades:
 
-**
-A = excellent performance, well above expected achievement.    
+**A = excellent performance, well above expected achievement.    
 B = good performance above expected achievement    
 C = expected achievement    
 D = poor or below expected achievement    
-F = failure    
-**
+F = failure**
 
 Note: A C- or below in a major class places a student on departmental probation.
 
