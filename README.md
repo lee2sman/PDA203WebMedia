@@ -261,7 +261,7 @@ Assignment Due: Final Project
 Readings
 --------
 Introduction and Escaping Flatland, Envisioning Information, Tufte    
-[hello.processing.org](hello.processing.org)    
+[hello.processing.org](http://hello.processing.org)    
 Getting Started with Processing    
 [Ten Myths Of Internet Art](http://www.nydigitalsalon.org/10/essay.php?essay=6)    
 [Web Work: A History Of Internet Art](http://cyberhouse.arted.psu.edu/visualculture/history_net_art.pdf)    
@@ -278,5 +278,5 @@ Getting Started with Processing
 HTML tutorial at [http://www.w3schools.com/html](http://www.w3schools.com/html)    
 [Hackers and Painters](http://www.paulgraham.com/hp.html)    
 Watch Casey Reas - [Chance Operations](https://vimeo.com/45851523), 37 minutes video    
-[P5JS.ORG website](p5js.org)    
-[Chrome Experiments](chromeexperiments.com) website    
+[P5JS.ORG website](http://www.p5js.org)    
+[Chrome Experiments](http://www.chromeexperiments.com) website    
