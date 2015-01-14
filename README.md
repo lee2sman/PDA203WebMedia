@@ -258,7 +258,8 @@ Assignment Due: Final Project
 
 Readings
 --------
-Introduction and Escaping Flatland, Envisioning Information, Tufte    
+Introduction and Escaping Flatland, Envisioning Information, Tufte   
+[Molly Soda Asks What's Your Wifi?](http://www.detroitnews.com/story/entertainment/arts/2015/01/13/molly-soda-asks-wifi/21710493/)   
 [hello.processing.org](http://hello.processing.org)    
 Getting Started with Processing    
 [Ten Myths Of Internet Art](http://www.nydigitalsalon.org/10/essay.php?essay=6)    
