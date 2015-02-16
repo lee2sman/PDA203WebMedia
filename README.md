@@ -12,7 +12,7 @@ Semester: Spring 2015
 Class: Tuesday and Thursday 8:30am - 11:20am    
 Location: Penelope P. Wilson Hall, Room 037    
 Instructor: Lee Tusman    
-Email:    
+Contact: ltusman @ moore   
 Office Hours: By email appointment    
 
 
