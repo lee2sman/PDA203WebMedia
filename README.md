@@ -1,6 +1,8 @@
 # PDA203WebMedia
 Moore College of Art - Web Media
 
+Jump to [individual class syllabi](#syllabi).
+
 Web Media
 =========
 
@@ -114,12 +116,15 @@ Disability Policy:
 Any student needing classroom or exam accommodations due to the impact of a learning difference, disability or medical condition must first contact the Dean of Students (rrobbins@moore.edu) or the Associate Dean of Educational Support Services (cthomas@moore.edu). Students should not request accommodations directly from the faculty. The Dean of Students or the Associate Dean will explain the College’s procedures for documenting disabilities and making reasonable accommodations, and will help the student take the necessary steps. (See Disability Policy in the College Policy section of the Handbook for further details: https://moore.edu/uploads/media_items/bfa-student-handbook-2012-2013.original.pdf). Once the accommodations have been documented and approved by either the Dean of Students or the Associate Dean, students should contact their faculty privately and in a timely manner to discuss the most effective methods to implement the accommodations.
 
 
-Schedule
+<a name="syllabi"></a>Schedule
 ========
 
 
 Week 1  
 ------
+
+[Full Day 1 syllabus](https://github.com/lee2sman/PDA203WebMedia/blob/master/1st%20day%20syllabus.md)    
+[Full Day 2 syllabus](https://github.com/lee2sman/PDA203WebMedia/blob/master/2nd%20day%20syllabus.md)
 
 What is web media?    
 History of Computing and Art    
@@ -131,6 +136,9 @@ Lab: Intro to NewHive
 
 Week 2 
 ------
+
+[Full Day 3 syllabus](https://github.com/lee2sman/PDA203WebMedia/blob/master/3rd%20class%20syllabus.md)    
+[Full Day 4 syllabus](https://github.com/lee2sman/PDA203WebMedia/blob/master/4th%20class%20syllabus.md)
 
 Assignment Due: NewHive page    
 Current trends in Web Media    
@@ -144,6 +152,9 @@ Field Trip: Surf Club @ Vox Populi
 Week 3
 ------
 
+[Full Day 5 Syllabus](https://github.com/lee2sman/PDA203WebMedia/blob/master/5th%20class%20syllabus.md)    
+[Full Day 6 Syllabus](https://github.com/lee2sman/PDA203WebMedia/blob/master/6th%20day%20syllabus.md)    
+
 Embedding media    
 Critiquing web media    
 What makes a strong web art project?    
@@ -152,6 +163,9 @@ Lab: Webify Project
 
 Week 4
 ------
+
+[Full Day 7 Syllabus](https://github.com/lee2sman/PDA203WebMedia/blob/master/7th%20day%20syllabus.md)    
+[Full Day 8 Syllabus](https://github.com/lee2sman/PDA203WebMedia/blob/master/8th%20day%20syllabus.md)    
 
 Assignment Due: Webify Project    
 Website as Form/Work of Art    
