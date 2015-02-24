@@ -176,6 +176,8 @@ Lab: Mashup Project
 Week 5
 ------
 
+[Full Day 9 Syllabus](https://github.com/lee2sman/PDA203WebMedia/blob/master/9th%20day%20syllabus.md)    
+
 Intro to Computational media    
 Intro to Programming    
 What is Processing?    
