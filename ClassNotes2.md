@@ -1,11 +1,7 @@
-2nd Class Syllabus
+Class 2 Notes
 ==================
 
-**Music: Aphex Twin - Selected Ambient Works Volume 2**
-
-#Student introduction catchup
-
-#Review: What is web media? (10 mins)
+#Review: What is web media? 
 
 **Digital Art**
 Digital art is an artistic work or practice that uses digital technology as an essential part of the creative or presentation process. Under the larger umbrella term new media art.
@@ -24,17 +20,18 @@ Most technologies described as new media are digital, often having characteristi
 
 #Reading Review
 
-#The Medium Is The Message
-
+#The Medium Is The Message 
 Marshall McLuhan's now famous declaration in Understanding Media: The Extensions of Man (1964) that "the medium is the message" drew attention to the too often ignored influence media and technology themselves, rather than their "content," have on humans' experience of the world and on society broadly.
 
-#Lev Manovich (10 mins)
+**do we agree with marshall's statement? is he right that medium is more important than message? is that still true or only true in his time?**
+
+#Lev Manovich
 **What Is New Media?**    
 8 defining principles    
 do we agree with these?    
 
-#History of Net Art (30 mins) 
-The roots of net art  
+#History of Net Art
+**The roots of net art**
 History of internet art    
 Examples    
 *  [Vuk Cosic](http://www.ljudmila.org/~vuk/)    
@@ -53,14 +50,18 @@ Examples
 *  Kenneth Hung - [Sixty 1s](http://www.111111111111111111111111111111111111111111111111111111111111.com/)    
 Surf Clubs - such as [Double Happiness](http://doublehappiness.ilikenicethings.com/) and [The Jogging](http://thejogging.tumblr.com/) and [Spirit Surfers](http://www.spiritsurfers.net/)    
 
-#The Vernacular Web (20 mins)
+
+**Break**
+
+
+#The Vernacular Web
 *  Geocities     
 *  **can great art happen with these tools or just amateur work?**
 *  Tumblr/Moving gifs/Vine    
 *  YouTube/Vimeo    
 *  NewHive   
 
-#Discussion of Marshall McLuhan in regards to web 2.0 (10 mins)
+#Discussion of Marshall McLuhan in regards to web 2.0
 *At the same time, I'm skeptical of its claim to be a "blank canvas," which obfuscates the aesthetic and political assumptions that it—that any cultural interface—reproduces.*
 
 *  Discussion about distribution - the web's ability to distribute/spread info/art
@@ -68,7 +69,7 @@ Surf Clubs - such as [Double Happiness](http://doublehappiness.ilikenicethings.c
 *  what community/ies does it serve?
 *  what can web art and web platforms be? play and experimentation. Newhives have functioned as visual diaries and written diaries. There have been essays, music videos, a songbook, collages, a compilation of physics information. There are also a number of universities that use it for class projects.
 
-#NewHive Introduction (30 mins)
+#NewHive Introduction
 * "YouTube for webpages"
 * [Pop Serial](http://issue5.popserial.net/) poetry magazine
 * [What's Your Wifi?](http://newhive.com/mollysoda/profile/grid/whatsyourwifi)
@@ -80,10 +81,10 @@ Surf Clubs - such as [Double Happiness](http://doublehappiness.ilikenicethings.c
 * Great version of a zine/journal by [EMA](http://newhive.com/ema/back-to-the-void)
 * another Molly Soda example of an internet mixtape, [Prime Ordeal](http://newhive.com/mollysoda/prime-ordeal?q=%40newhive%20%23primeordeal)
 
-#Watch NewHive instructional video (10 mins)
+#Watch NewHive instructional video
 * Video is [here](https://vimeo.com/32615310)
 
-#Explore NewHive and then build your own (45 mins)
+#Explore NewHive and then build your own
 * students work solo on a project
 * if time available at end, present where they are so far and get feedback
 

@@ -1,9 +1,9 @@
-Intro to Computational media
-============================
+Class 9 Notes
+=============
 
-###Music: Africa Express Presents Terry Riley's In C
+Music: Africa Express Presents Terry Riley's In C
 
-###Attendance
+#Computational media
 
 #Intro to Programming
 
@@ -64,7 +64,7 @@ Make it interactive
 
 #Reading
 
-* Getting Started With Processing 3, 4 and 5
+* Getting Started With Processing chapters 3, 4 and 5
 
 Coming up: Review of Functions, Objects, Arrays, 
 Critique of Algorithmic Design

@@ -1,5 +1,5 @@
-6th Day Syllabus
-================
+Class 6 Notes
+=============
 
 Attendance
 
@@ -25,6 +25,8 @@ Attendance
 * Embed [almost anything](http://www.labnol.org/internet/how-to-embed-in-html-webpages/6365/) in HTML5
 * Try embedding soundcloud
 * Test on the ipad!
+
+**BREAK**
 
 #Students write design brief for Webify project
 

@@ -1,20 +1,43 @@
-1st day syllabus
-================
-
+Class 1 Notes
+=============
 
 #Introduction
 
+#Alec Soth Business Card
+
+Overview
+
+	1. Intro
+	2. Syllabus
+	3. Alec Soth business card
+	4. What is web media?
+	6. Watch Marshall McLuhan
+	7. Begin to research web media artists/history (each student pick one artist)
+	8. Present research on these artists
+
 #Overview of syllabus
+
+*  Contact information, best time/way to get ahold of me
+*  Explanation of outcomes/objectives
+*  College policies (student work, plagiarism, disabilities, weather cancellations)
+*  Class policies (attendance, no texting/phone, paying attention to speakers, class cancellations)
+*  How much work to expect (homework, reading, in-class, projects)
 
 #Student introductions
 
+*  Name
+*  Major
+*  Where they are from
 *  show [Alec Soth business card](https://littlebrownmushroom.files.wordpress.com/2010/09/biz_card.jpg)
-* students create own business card with subjects they are interested in
-* 
+*  show my own version
+*  ask students to sketch out their own Alec Soth style business card - real or imaginary items they'd like to photograph or make art about - at least 10 items (5 mins)
+*  students present their business card sketches
 
-#Student Discussion of goals
+#Student Discussion
 
-#What do we mean by web media?
+Randomly assign groups of 2 students. The duo will list 2 - 3 expectations/goals/or things they want to learn or accomplish from taking this course and 1 question for the instructor relating to the syllabus. 
+
+#What is web media?
 
 ## Terms
 
@@ -73,9 +96,11 @@ In the 1960s, connections between computing and radical art began to grow strong
 Writers and philosophers such as Marshall McLuhan were instrumental in the development of media theory during this period. His now famous declaration in Understanding Media: The Extensions of Man (1964) that "the medium is the message" drew attention to the too often ignored influence media and technology themselves, rather than their "content," have on humans' experience of the world and on society broadly.
 
 #The Medium Is The Message
+
 Watch [The Medium Is The Message](https://www.youtube.com/watch?v=ImaH51F4HBw)
 
 #History of Computing and Art  
+
 The roots of net art  
 History of internet art    
 Examples    

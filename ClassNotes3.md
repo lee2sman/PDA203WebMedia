@@ -1,9 +1,15 @@
-3rd Class Syllabus
-==================
+Class 3 Notes
+=============
+
+Greeting
 
 **music The Hours soundtrack by Philip Glass**
 
-#Review Surf Clubs (25 mins)
+Attendance
+
+#Participation and Attendance Review
+
+#Review Surf Clubs
 
 **Reading Review of So You Want To Join A Surf Club**
 
@@ -41,7 +47,6 @@ Jacob's notes to discuss
 
 
 #Discussion about critiquing art
-
 * Each student discusses one NewHive site they picked and why they like/dislike it
 
 A framework (ideas/descriptions adapted from [How To Critique Art - Diversified Arts](https://diversifiedarts.wordpress.com/2011/03/01/artistic-criticism-how-to-critique-art/) )
@@ -109,13 +114,18 @@ After careful observation, analysis, and interpretation of an artwork, you are r
 
 * Students take turns showing the expression they selected from NewHive and analyzing it using the Critique Method developed
 
-#Critique of Student "Expressions" on NewHive
+#Critique of Student "Expressions" on NewHive (25 minutes)
 
 * Students take turns trying each other's works/demo'ing for class and classmates offer critique using the Critique Method developed
 
-#Readings
 
-* HTML Tutorials
+**Break**
 
-[Tutorial at W3Schools](http://www.w3schools.com/html/default.asp)    
+#Where Is Your Tumblr?
+
+[Tutorial at W3Schools](http://www.w3schools.com/html/default.asp)
 [Another tutorial](http://www.htmldog.com/guides/html/)
+
+
+
+#READING

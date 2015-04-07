@@ -1,7 +1,5 @@
-7th Day Syllabus
-================
-
-Attendance
+Class 7 Notes
+=============
 
 #Review students' design brief
 
@@ -21,7 +19,7 @@ Attendance
 * GIF
 * PNG
 
-# Rhizome.org ArtPlace and other web works 
+# Rhizome.org ArtPlace and other web works
 
 * Intro to [Rhizome.org](http://rhizome.org/artbase/?ref=header) ArtBase
 * Lev Manovich [Little Movies](http://archive.rhizome.org/artbase/1688/index.html)
@@ -38,6 +36,8 @@ Attendance
 * Rhizome.org [MacKeeper response projects](http://rhizome.org/editorial/2015/jan/29/human-inside-mackeeper-and-other-familiar-objects-/?ref=ftsidebar)
 * Cory Arcangel web projects
 
+**BREAK**
+
 #Students work on Webify project
 
 * Example site [Memory Extender](http://104.236.48.182:3002/netmedia01/memex1.html)
@@ -52,3 +52,11 @@ Attendance
 
 * Finish Webify Project
 * Write about it for tumblr blog
+
+
+
+Assignment Due: Webify Project    
+Website as Form/Work of Art    
+Thinking about Interfaces    
+Intro to CSS    
+Lab: Mashup Project   

@@ -1,5 +1,5 @@
-5th class
-=========
+Class 5 Notes
+=============
 
 Music: Steve Reich - Music For 18 Musicians
 
@@ -10,7 +10,10 @@ Music: Steve Reich - Music For 18 Musicians
 * Use critique model discussed in class
 * Watch videos, review websites
 
-#Internet Graphics Review and cleanup site 
+**BREAK**
+
+#Internet Graphics Review and cleanup site
+
 
 * reducing 8bit/256 colors to 4bit or 1bit GIF (to reduce file size)
 
@@ -146,7 +149,7 @@ Update your HTML/Lab
 
 #Reading
 -------
-
+[Making Love Alive Game Leaves Mark](http://animalnewyork.com/2014/making-love-alive-game-leaves-mark/)    
 [CSS Intermediate](http://www.htmldog.com/guides/css/intermediate/layout/) - paying close attention to image location and page layout
 
 Assignment

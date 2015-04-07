@@ -1,12 +1,11 @@
-8th Day Syllabus
-================
+Class 8 Notes
+=============
 
 Music: DJ Screw - Phil Collins - In The Air Tonight
 
 #Discussion about archiving VVORK
 
 #Discussion on Chinese Internet Culture
-
 
 #Critique Webify Projects
 
@@ -37,4 +36,5 @@ Music: DJ Screw - Phil Collins - In The Air Tonight
 
 * Watch and do hello.processing.org
 * Download Processing
-* Do Chapters 1 - 3 of Getting Started With Processing / Ben Fry&Casey Reas
+* Do Chapters 1 - 3 of book
+

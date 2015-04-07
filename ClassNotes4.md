@@ -1,7 +1,9 @@
-4th class
-=========
+Class 4 Notes
+=============
 
 ** Music - [Kind Of Bloop](https://www.youtube.com/watch?v=hSCObIXDCJc) **
+
+Attendance
 
 Review tumblr blog - Design Brief
 
@@ -26,7 +28,7 @@ Review tumblr blog - Design Brief
 
 * [Tim Berners-Lee and the the World Wide Web](https://www.youtube.com/watch?v=j4cN_q3NX9c)
 
-#Early webpages aka Web 1.0
+#Early webpages aka Web 1.0 
 
 * Look at the [Mosaic web browser](http://pixgood.com/mosaic-browser-icon.html)
 * [Mosaic](http://mosaic.mcom.com/)
@@ -39,7 +41,7 @@ Review tumblr blog - Design Brief
 * [You've Got Mail](http://youvegotmail.warnerbros.com/cmp/0frameset.html)
 
 
-#Review HTML fundamentals
+#Review HTML fundamentals 
 
 * Bare minimum HTML needed
 * Tags - The basic structure of an HTML document. Surround content and apply meaning to it.
@@ -51,8 +53,11 @@ Review tumblr blog - Design Brief
 * Images
 * Span and Div
 
-#Mini Lab - Color page
+**BREAK** (15 mins)
 
+** Music: Aphex Twin - Selected Ambient Works Volume 2 **
+
+#Mini Lab - Color page
 * Make a single-color website
 * [purple.com](http://purple.com) and my remix [ashgreyseafoam.com](ashgreyseafoam.com)
 
@@ -90,3 +95,7 @@ Review tumblr blog - Design Brief
 * Pick 2 online art projects from The Year's Best Art On The Internet and critique them using the critique rubric we reviewed in class.
 * Finish your Dirt-style website
 * Write a design brief for your dirt-style website. What is your subject matter, approach, technique, challenges. What were your successes and failures?
+
+** Next week - CSS Styling and Embedded Content: Video, Audio and Canvas**
+
+
