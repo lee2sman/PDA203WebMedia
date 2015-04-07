@@ -1,8 +1,6 @@
 # PDA203WebMedia
 Moore College of Art - Web Media
 
-Jump to [individual class syllabi](#syllabi).
-
 Web Media
 =========
 
@@ -114,12 +112,6 @@ Note: A C- or below in a major class places a student on departmental probation.
 
 Disability Policy:
 Any student needing classroom or exam accommodations due to the impact of a learning difference, disability or medical condition must first contact the Dean of Students (rrobbins@moore.edu) or the Associate Dean of Educational Support Services (cthomas@moore.edu). Students should not request accommodations directly from the faculty. The Dean of Students or the Associate Dean will explain the College’s procedures for documenting disabilities and making reasonable accommodations, and will help the student take the necessary steps. (See Disability Policy in the College Policy section of the Handbook for further details: https://moore.edu/uploads/media_items/bfa-student-handbook-2012-2013.original.pdf). Once the accommodations have been documented and approved by either the Dean of Students or the Associate Dean, students should contact their faculty privately and in a timely manner to discuss the most effective methods to implement the accommodations.
-
-
-Class Notes
-===========
-
-
 
 Readings
 --------
