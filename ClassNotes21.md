@@ -29,6 +29,7 @@ Class 21 Notes
 
 #Readings
 
+* [Using APIs Not Quite As Hard As It Looks](https://gigaom.com/2010/10/29/using-apis-not-quite-as-hard-as-it-looks/)
 * [Poetry As Practice](http://rhizome.org/editorial/2015/mar/2/first-look-poetry/)
 * [The Internet Archive As Massive Art Project](http://www.fastcolabs.com/3038062/the-internet-archive-as-massive-art-project)
 * [256 Colors](http://www.fastcompany.com/3036241/this-film-is-made-from-3000-gifs)
