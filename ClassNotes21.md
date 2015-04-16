@@ -41,4 +41,5 @@ Class 21 Notes
 
 ###Bonus
 
+* Check out [Speed Show](http://www.speedshow.net)
 * [GlitchFace Is The New Selfie](http://www.fastcompany.com/3036029/app-economy/glitch-face-is-the-new-selfie)
