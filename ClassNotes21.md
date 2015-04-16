@@ -35,7 +35,7 @@ Class 21 Notes
 
 #Assignment
 
-* Find a web art project that inspires you on rhizome.org's blog. What is the project? What do you like about it? What would you do different? 
+* Find a web art project that inspires you on [rhizome.org's blog](http://rhizome.org/editorial/), [ArtBase](http://rhizome.org/artbase/) or on the [online exhibits](http://www.newmuseum.org/exhibitions/online) of The New Museum. What is the project? What do you like about it? What would you do different? 
 * Write in your tumblr: What kind of project do you think you'd like to present. What are the themes or what is the concept? How will you build it? How will users interact with it? What do you need to review or learn to complete the assignment?
 
 
